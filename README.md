@@ -20,7 +20,10 @@ start script in package.json which is "start": "parcel index.html"
 
 # now u can run your web by command
 >> npm start or npm run start.
-
+# if u want to build for production
+>> npx parcel build index.html
+after build there is compressed file in terminal.. for hosting upload all these file on netlify.
+.......................................................
 
 If u r unable to create react app from parcel then go through this  below link 
 >>link 
